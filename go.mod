@@ -1,6 +1,6 @@
 module github.com/ringsaturn/geo-redis-protocol-benchmark
 
-go 1.21.5
+go 1.21
 
 require (
 	github.com/aybabtme/uniplot v0.0.0-20151203143629-039c559e5e7e
